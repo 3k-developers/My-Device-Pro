@@ -47,7 +47,7 @@
 
 ## Scope
 
-My Device is a powerful yet simple app that lets you know all the essential details about your phone. Whether it be information regarding your System on Chip (SoC), the memory of your device or tech specs about your battery or all the relevant information about your device sensors – My Device is your one-stop place for all this. Complete listings of all Software & Hardware details.
+My Device Pro is a powerful yet simple app that lets you know all the essential details about your phone. Whether it be information regarding your System on Chip (SoC), the memory of your device or tech specs about your battery or all the relevant information about your device sensors – My Device Pro is your one-stop place for all this. Complete listings of all Software & Hardware details.
 
 #1 Device information App in this Category. All the Software & Hardware details can share.
 
