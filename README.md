@@ -5,7 +5,7 @@
 ## Store
 <a href='https://play.google.com/store/apps/details?id=com.anu.developers3k.mydevice&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_gb/badges/images/generic/en_badge_web_generic.png' height="83" width="215" /></a>
 
-## Screenshots Ver. 1.7.0
+## Screenshots Ver. 1.3.0
 
 <img src="https://user-images.githubusercontent.com/18279724/60650146-2d44a300-9e61-11e9-880d-56d526c449ca.jpg" align="left" height="300" width="180" >
 
